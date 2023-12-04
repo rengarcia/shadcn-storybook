@@ -52,6 +52,10 @@ const components: { title: string; href: string; description: string }[] = [
   },
 ]
 
+/**
+ * An beautiful navigation menu component
+ */
+
 export function NavigationMenuDemo() {
   return (
     <NavigationMenu>
